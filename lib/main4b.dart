@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'screens/first.dart';
-import 'screens/second.dart';
-import 'screens/third.dart';
+import 'screen/first.dart';
+import 'screen/second.dart';
+import 'screen/third.dart';
 
 class Main4b extends StatelessWidget {
   const Main4b({super.key});
